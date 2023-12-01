@@ -1,0 +1,4 @@
+select * from user_details;
+DELETE FROM user_details;
+alter table user_details
+drop column photo;
